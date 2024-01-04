@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @IAMSHENSH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-IAMSHENSH/IAMSHENSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Sean.
+- 👀 I am interested in data visualization and efficient and elegant interaction.     
+- 🌱 I am currently learning how to build products in public and engage in creative work.
+- 💞️ I'm looking for a partner to collaborate on creating interesting products.
